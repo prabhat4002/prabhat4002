@@ -19,9 +19,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=prabhat4002&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!--
 ### 🐸 Play the Frog Game!  
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="500"/>
-
+-->
 
 
 
