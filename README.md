@@ -21,6 +21,22 @@
 
 
 
+## 🐸 Frog Hop Journey
+
+<div align="center">
+  <p>Watch my little frog hop through my contribution graph!</p>
+  
+  <!-- GitHub workflow setup for frog animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/prabhat4002/prabhat4002/blob/output/github-contribution-grid-frog-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/prabhat4002/prabhat4002/blob/output/github-contribution-grid-frog.svg">
+    <img alt="Frog contribution animation" src="https://github.com/prabhat4002/prabhat4002/blob/output/github-contribution-grid-frog.svg">
+  </picture>
+  
+  <p>Each hop represents a day of coding adventure! 🍃</p>
+</div>
+
+
 <!-- ### 🐸 Play the Frog Game! <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="500"/> -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
