@@ -20,11 +20,15 @@
 ![](https://github-profile-trophy.vercel.app/?username=prabhat4002&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🚀 Rocket Launch
-<img src="https://raw.githubusercontent.com/sudnyeshtalekar/sudnyeshtalekar/master/Assets/rocket.gif" width="60"> <em>Blasting through the stars with code!</em>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="contribution grid snake animation"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=440&lines=%F0%9F%9A%80+Launching+Code+Into+Production+%F0%9F%9A%80" alt="Typing SVG" />
+
+  <img width="500" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
+  
+  <br/>
+  <img width="500" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=prabhat4002&icon=0&color=0)](https://visitcount.itsvg.in)
