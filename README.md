@@ -19,18 +19,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=prabhat4002&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-🌆 Code Journey
-<div align="center">
-  <a href="https://github.com/prabhat4002">
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-  </a>
-  <br>
-  <br>
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600">
-  <p>Watch my contributions build this digital city! Each commit brings new buildings to life.</p>
-</div>
----
-[![](https://visitcount.itsvg.in/api?id=prabhat4002&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- ### 🐸 Play the Frog Game! <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="500"/> -->
 
