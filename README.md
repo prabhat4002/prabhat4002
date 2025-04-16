@@ -19,15 +19,17 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=prabhat4002&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🚀 Rocket Launch
-
+## 🎮 Code Journey
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=440&lines=%F0%9F%9A%80+Launching+Code+Into+Production+%F0%9F%9A%80" alt="Typing SVG" />
-
-  <img width="500" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
+  <a href="https://github.com/prabhat4002">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/GIFs/Code%20_Typing.gif" alt="Coding Gif" width="500">
+  </a>
+  <br>
+  <br>
   
-  <br/>
-  <img width="500" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/GIFs/pixel-city.gif" width="600">
+  
+  <p>Watch my contributions build this digital city! Each commit brings new buildings to life.</p>
 </div>
 
 ---
