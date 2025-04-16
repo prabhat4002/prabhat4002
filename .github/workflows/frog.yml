@@ -2,7 +2,7 @@ name: Generate Frog Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"  # runs every 12 hours
   workflow_dispatch:
   push:
     branches:
@@ -18,7 +18,7 @@ jobs:
       - name: Generate Frog SVG
         uses: Platane/snk/svg-only@v2
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: prabhat4002  # ✅ your GitHub username directly here
           outputs: |
             dist/github-contribution-grid-frog.svg
             dist/github-contribution-grid-frog-dark.svg?palette=github-dark
