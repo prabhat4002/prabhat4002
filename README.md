@@ -20,7 +20,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=prabhat4002&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🚀 Rocket Launch
-A rocket "flies" across the contribution grid from left to right. Leaves a trail of fire through contribution boxes. Bigger contributions give it more speed or upgrades.
+<img src="https://raw.githubusercontent.com/sudnyeshtalekar/sudnyeshtalekar/master/Assets/rocket.gif" width="60"> <em>Blasting through the stars with code!</em>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="contribution grid snake animation"/>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=prabhat4002&icon=0&color=0)](https://visitcount.itsvg.in)
