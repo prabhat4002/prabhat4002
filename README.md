@@ -20,13 +20,14 @@
 ![](https://github-profile-trophy.vercel.app/?username=prabhat4002&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-
+<!--
 ## 🐸 Frog Hop Journey
 
 <div align="center">
   <p>Watch my little frog hop through my contribution graph!</p>
   
   <!-- GitHub workflow setup for frog animation -->
+  <!--
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/prabhat4002/prabhat4002/blob/output/github-contribution-grid-frog-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/prabhat4002/prabhat4002/blob/output/github-contribution-grid-frog.svg">
@@ -34,9 +35,7 @@
   </picture>
   
   <p>Each hop represents a day of coding adventure! 🍃</p>
-</div>
-
-
+</div> 
 <!-- ### 🐸 Play the Frog Game! <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="500"/> -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
